@@ -2,7 +2,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
-
 class Card:
     def __init__(self, name, apr, balance):
         self.name = name
